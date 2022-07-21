@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Kotlin/FragmentAndNavigationNovice/app/src/main/res/layout/activity_main.xml" value="0.3277777777777778" />
+        <entry key="..\:/Kotlin/FragmentAndNavigationNovice/app/src/main/res/layout/fragment_message.xml" value="0.3277777777777778" />
         <entry key="..\:/Kotlin/FragmentAndNavigationNovice/app/src/main/res/layout/fragment_welcome.xml" value="0.3277777777777778" />
       </map>
     </option>
