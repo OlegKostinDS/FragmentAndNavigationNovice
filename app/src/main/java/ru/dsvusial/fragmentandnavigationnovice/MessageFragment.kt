@@ -17,8 +17,8 @@ class MessageFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-      val view = inflater.inflate(R.layout.fragment_message,container,false)
-    val messageView = view.findViewById<EditText >(R.id.message)
+        val view = inflater.inflate(R.layout.fragment_message, container, false)
+        val messageView = view.findViewById<EditText>(R.id.message)
         val nextButton = view.findViewById<Button>(R.id.next)
         nextButton.setOnClickListener {
             val message = messageView.text.toString()
